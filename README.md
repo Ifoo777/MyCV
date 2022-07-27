@@ -33,8 +33,8 @@ once you have opened the folder and have the files displaying on you vscode side
 
 Now you can right click on the index.html file and select “Open with live server” as shown below:
 
-![Open_with](https://user-images.githubusercontent.com/49390798/![Screenshot 2022-07-27 220628](https://user-images.githubusercontent.com/49390798/181362455-cdd8d0dd-30a2-46b6-bcdb-1c18a01d24f1.png)
-181362304-e63e621d-d455-456c-8449-f4da72c86976.png)
+![Screenshot 2022-07-27 220628](https://user-images.githubusercontent.com/49390798/181362679-59c2c6cb-04fe-4fb9-952f-f2d2ed37e061.png)
+
 
 ## Credits
 
