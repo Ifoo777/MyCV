@@ -31,6 +31,12 @@ once you have opened the folder and have the files displaying on you vscode side
 
 Now you can right click on the index.html file and select “Open with live server” as shown below:
 
+![Open_with](https://user-images.githubusercontent.com/49390798/181364710-17c9a2a6-2719-49db-8a46-6ad20a5fcb65.png)
+
+
+
+
+
 After clicking on open with live server the folder will open up a local window for you to view my portfolio as shown below
 
 ![Screenshot 2022-07-27 220628](https://user-images.githubusercontent.com/49390798/181362679-59c2c6cb-04fe-4fb9-952f-f2d2ed37e061.png)
