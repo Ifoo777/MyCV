@@ -1,5 +1,3 @@
-# MyCV
-
 ## MyCV
 What this is and what this project is for.
 I created an online CV in order to showcase my work experience and Education
